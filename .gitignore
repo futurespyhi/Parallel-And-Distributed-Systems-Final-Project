@@ -1,0 +1,5 @@
+# CSC458final Parallel And Distributed Systems
+analysis/
+data/graph_analysis_results
+results/
+src/utils/cache
