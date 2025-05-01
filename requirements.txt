@@ -1,0 +1,5 @@
+osmnx==1.2.2
+networkx==2.8.8
+matplotlib==3.6.2
+pandas==1.5.2
+numpy==1.23.5
